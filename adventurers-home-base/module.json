@@ -1,0 +1,23 @@
+{
+  "name": "adventurers-home-base",
+  "title": "Adventurers Home Base",
+  "authors": [
+    {
+      "name": "Seafootgames",
+      "url": "https://www.seafootgames.com/"
+    }
+  ],
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "9",
+    "verified": "10"
+  },
+  "packs": [
+    {
+      "name": "adventurers-home-base",
+      "label": "Adventurers Home Base",
+      "path": "packs/adventurers-home-base.db",
+      "type": "Scene"
+    }
+  ]
+}
